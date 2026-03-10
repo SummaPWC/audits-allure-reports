@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Tue Mar 10 11:46:22 UTC 2026","Tue Mar 10 11:46:44 UTC 2026","22736","","Audit case creation","","User creates new audit case for client","","User creates new audit case for client",""
-"skipped","Tue Mar 10 11:46:45 UTC 2026","Tue Mar 10 11:46:46 UTC 2026","898","","Client management","","Create new client","","Create new client",""
+"broken","Tue Mar 10 11:55:56 UTC 2026","Tue Mar 10 11:56:58 UTC 2026","61971","","Audit case creation","","User creates new audit case for client","","User creates new audit case for client",""
+"passed","Tue Mar 10 11:56:58 UTC 2026","Tue Mar 10 11:57:07 UTC 2026","8645","","Client management","","Create new client","","Create new client",""
