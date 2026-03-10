@@ -1,0 +1,1 @@
+[{"uid":"ca90726f2d5b9a7d","name":"User creates new audit case for client","time":{"start":1773143182103,"stop":1773143204839,"duration":22736},"status":"skipped","severity":"normal"},{"uid":"bcd3937f4a576873","name":"Create new client","time":{"start":1773143205134,"stop":1773143206032,"duration":898},"status":"skipped","severity":"normal"}]
