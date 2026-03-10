@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Tue Mar 10 11:36:34 UTC 2026","Tue Mar 10 11:36:36 UTC 2026","1953","","Audit case creation","","User creates new audit case for client","","User creates new audit case for client",""
-"skipped","Tue Mar 10 11:36:36 UTC 2026","Tue Mar 10 11:36:37 UTC 2026","433","","Client management","","Create new client","","Create new client",""
